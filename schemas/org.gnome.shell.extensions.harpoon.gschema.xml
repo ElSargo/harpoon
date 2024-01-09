@@ -1,0 +1,37 @@
+<?xml version=1.0 encoding=UTF-8?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.harpoon" path="/org/gnome/shell/extensions/harpoon/">
+        <key name="pick-window-a" type="as">
+            <default><![CDATA[['<Alt><Shift>H']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="goto-window-a" type="as">
+            <default><![CDATA[['<Alt>H']]]></default>
+            <summary>Hotkey to jump</summary>
+        </key>
+        <key name="pick-window-b" type="as">
+            <default><![CDATA[['<Alt><Shift>J']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="goto-window-b" type="as">
+            <default><![CDATA[['<Alt>J']]]></default>
+            <summary>Hotkey to jump</summary>
+        </key>
+        <key name="pick-window-c" type="as">
+            <default><![CDATA[['<Alt><Shift>K']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="goto-window-c" type="as">
+            <default><![CDATA[['<Alt>K']]]></default>
+            <summary>Hotkey to jump</summary>
+        </key>
+        <key name="pick-window-d" type="as">
+            <default><![CDATA[['<Alt><Shift>L']]]></default>
+            <summary>Hotkey to mark window</summary>
+        </key>
+        <key name="goto-window-d" type="as">
+            <default><![CDATA[['<Alt>L']]]></default>
+            <summary>Hotkey to jump</summary>
+        </key>
+    </schema>
+</schemalist>

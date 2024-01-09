@@ -1,0 +1,8 @@
+{
+  "name": "harpoon",
+  "description": "Harpoon for gnome shell",
+  "uuid": "harpoon@sargo.cc",
+  "shell-version": [
+    "45"
+  ]
+}
